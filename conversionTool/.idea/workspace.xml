@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3933bd9b-6919-43df-ae86-066e46fb732e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1361#1369#0" expanded="true" />
+                <element signature="e#1435#1444#0" expanded="true" />
+                <element signature="e#1510#1519#0" expanded="true" />
+                <element signature="e#1587#1595#0" expanded="true" />
+                <element signature="e#3829#3837#0" expanded="true" />
+                <element signature="e#8107#8115#0" expanded="true" />
+                <element signature="e#21466#21475#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Documents/Jena/lib/jena-core-3.7.0.jar!/org/apache/jena/graph/Node.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
+              <folding>
+                <element signature="e#3128#3129#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jsonFormat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/jsonFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Meta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Meta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+              <folding>
+                <element signature="class#Source#0;class#Meta#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Data.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Data.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding>
+                <element signature="class#CustomData#0;class#Data#0" />
+                <element signature="e#2866#2867#0" expanded="true" />
+                <element signature="e#2904#2905#0" expanded="true" />
+                <element signature="class#Locations#0;class#Data#0" />
+                <element signature="class#Author#0;class#Data#0" />
+                <element signature="class#Change#0;class#Data#0" />
+                <element signature="class#GitIdentifier#0;class#Data#0" />
+                <element signature="class#TestCase#0;class#Data#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>-1</find>
+      <find>fac</find>
+      <find>eiffel:</find>
+      <find>outcomeConclusion</find>
+      <find>eiffel:executionType</find>
+      <find>eiffel:trigger</find>
+      <find>eiffel:gav</find>
+      <find>eiffel:fileinfo</find>
+      <find>eiffel:location</find>
+      <find>eiffel:author</find>
+      <find>eiffel:git</find>
+      <find>eiffel:change</find>
+      <find>submitter</find>
+      <find>:submitter</find>
+      <find>testSuiteType</find>
+      <find>eiffel:outcomeVerdict, eiffel:time, eiffel:gitRepoURI, eiffel:git, eiffel:changeDeletions, eiffel:gav, eiffel:submitterId, eiffel:submitterEmail, eiffellink:activity_execution, eiffel:change, eiffel:authorName, eiffellink:context, eiffellink:subject, eiffellink:test_suite_execution, eiffel:trigger, eiffel:version, eiffel:executionType, eiffel:domain, eiffel:author, eiffel:classifier, eiffel:testSuiteType, eiffel:gavVersion, eiffellink:change, eiffel:changeInsertions, eiffel:eventVersion, eiffel:outcomeConclusion, rdf:type, eiffel:testCase, eiffel:locationType, eiffel:artifactId, eiffel:authorId, eiffel:category, eiffellink:previous_version, eiffel:authorEmail, eiffel:authorGroup, eiffel:locationURI, eiffel:extension, eiffel:submitter, eiffel:name, eiffel:testCaseTracker, eiffel:location, eiffel:value, eiffellink:test_case_execution, eiffellink:iut, eiffel:testCaseURI, eiffel:submitterGroup, eiffel:gitCommitId, eiffellink:environment, eiffel:testCaseId, eiffel:fileinfo, eiffellink:composition, eiffellink:element, eiffel:gitRepoName, eiffellink:cause, eiffel:changeFiles, eiffel:submitterName, eiffel:groupId, eiffel:iteration, eiffel:gitBranch, eiffellink:artifact, eiffellink:base</find>
+      <find>b;</find>
+      <find>b)</find>
+      <find>b</find>
+      <find>b+</find>
+      <find>p.prin</find>
+      <find>a++</find>
+      <find>blank</find>
+      <find>args</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Links.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Data.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LinkTypes.java" />
+        <option value="$PROJECT_DIR$/src/com/company/jsonFormat.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Source.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Meta.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="20" />
+    <option name="width" value="974" />
+    <option name="height" value="1167" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="conversionTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conversionTool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conversionTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conversionTool" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conversionTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conversionTool" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conversionTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conversionTool" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="conversionTool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="conversionTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonpa22\IdeaProjects\conversionTool\out\production\conversionTool\com\company" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="conversionTool" />
+      <option name="PROGRAM_PARAMETERS" value="4\\4.4\\data2 4\\4.4\\data3 4\\4.4\\data4 4\\4.5\\data1 4\\4.5\\data2 4\\4.5\\data3 4\\4.5\\data4 4\\4.6\\data1 4\\4.6\\data2 4\\4.6\\data3 4\\4.6\\data4" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3933bd9b-6919-43df-ae86-066e46fb732e" name="Default" comment="" />
+      <created>1527750957940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527750957940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32947975" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49947917" weight="0.4382658" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.31668237" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" side_tool="true" type="SLIDING" visible="true" weight="0.25070688" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32851636" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.12524085" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Meta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="class#Source#0;class#Meta#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1361#1369#0" expanded="true" />
+            <element signature="e#1435#1444#0" expanded="true" />
+            <element signature="e#1510#1519#0" expanded="true" />
+            <element signature="e#1587#1595#0" expanded="true" />
+            <element signature="e#3829#3837#0" expanded="true" />
+            <element signature="e#8107#8115#0" expanded="true" />
+            <element signature="e#21466#21475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/jsonFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="92" column="27" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+          <folding>
+            <element signature="class#CustomData#0;class#Data#0" />
+            <element signature="e#2866#2867#0" expanded="true" />
+            <element signature="e#2904#2905#0" expanded="true" />
+            <element signature="class#Locations#0;class#Data#0" />
+            <element signature="class#Author#0;class#Data#0" />
+            <element signature="class#Change#0;class#Data#0" />
+            <element signature="class#GitIdentifier#0;class#Data#0" />
+            <element signature="class#TestCase#0;class#Data#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Meta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="class#Source#0;class#Meta#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1361#1369#0" expanded="true" />
+            <element signature="e#1435#1444#0" expanded="true" />
+            <element signature="e#1510#1519#0" expanded="true" />
+            <element signature="e#1587#1595#0" expanded="true" />
+            <element signature="e#3829#3837#0" expanded="true" />
+            <element signature="e#8107#8115#0" expanded="true" />
+            <element signature="e#21466#21475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/jsonFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="92" column="27" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+          <folding>
+            <element signature="class#CustomData#0;class#Data#0" />
+            <element signature="e#2866#2867#0" expanded="true" />
+            <element signature="e#2904#2905#0" expanded="true" />
+            <element signature="class#Locations#0;class#Data#0" />
+            <element signature="class#Author#0;class#Data#0" />
+            <element signature="class#Change#0;class#Data#0" />
+            <element signature="class#GitIdentifier#0;class#Data#0" />
+            <element signature="class#TestCase#0;class#Data#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Meta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="class#Source#0;class#Meta#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1361#1369#0" expanded="true" />
+            <element signature="e#1435#1444#0" expanded="true" />
+            <element signature="e#1510#1519#0" expanded="true" />
+            <element signature="e#1587#1595#0" expanded="true" />
+            <element signature="e#3829#3837#0" expanded="true" />
+            <element signature="e#8107#8115#0" expanded="true" />
+            <element signature="e#21466#21475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/jsonFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="92" column="27" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+          <folding>
+            <element signature="class#CustomData#0;class#Data#0" />
+            <element signature="e#2866#2867#0" expanded="true" />
+            <element signature="e#2904#2905#0" expanded="true" />
+            <element signature="class#Locations#0;class#Data#0" />
+            <element signature="class#Author#0;class#Data#0" />
+            <element signature="class#Change#0;class#Data#0" />
+            <element signature="class#GitIdentifier#0;class#Data#0" />
+            <element signature="class#TestCase#0;class#Data#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Meta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="class#Source#0;class#Meta#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="13" lean-forward="true" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1361#1369#0" expanded="true" />
+            <element signature="e#1435#1444#0" expanded="true" />
+            <element signature="e#1510#1519#0" expanded="true" />
+            <element signature="e#1587#1595#0" expanded="true" />
+            <element signature="e#3829#3837#0" expanded="true" />
+            <element signature="e#8107#8115#0" expanded="true" />
+            <element signature="e#21466#21475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/jsonFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="234" column="26" selection-start-line="234" selection-start-column="26" selection-end-line="234" selection-end-column="26" />
+          <folding>
+            <element signature="class#CustomData#0;class#Data#0" />
+            <element signature="e#2866#2867#0" expanded="true" />
+            <element signature="e#2904#2905#0" expanded="true" />
+            <element signature="class#Locations#0;class#Data#0" />
+            <element signature="class#Author#0;class#Data#0" />
+            <element signature="class#Change#0;class#Data#0" />
+            <element signature="class#GitIdentifier#0;class#Data#0" />
+            <element signature="class#TestCase#0;class#Data#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Meta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="class#Source#0;class#Meta#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1361#1369#0" expanded="true" />
+            <element signature="e#1435#1444#0" expanded="true" />
+            <element signature="e#1510#1519#0" expanded="true" />
+            <element signature="e#1587#1595#0" expanded="true" />
+            <element signature="e#3829#3837#0" expanded="true" />
+            <element signature="e#8107#8115#0" expanded="true" />
+            <element signature="e#21466#21475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/jsonFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+          <folding>
+            <element signature="class#CustomData#0;class#Data#0" />
+            <element signature="e#2866#2867#0" expanded="true" />
+            <element signature="e#2904#2905#0" expanded="true" />
+            <element signature="class#Locations#0;class#Data#0" />
+            <element signature="class#Author#0;class#Data#0" />
+            <element signature="class#Change#0;class#Data#0" />
+            <element signature="class#GitIdentifier#0;class#Data#0" />
+            <element signature="class#TestCase#0;class#Data#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Meta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="class#Source#0;class#Meta#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1361#1369#0" expanded="true" />
+            <element signature="e#1435#1444#0" expanded="true" />
+            <element signature="e#1510#1519#0" expanded="true" />
+            <element signature="e#1587#1595#0" expanded="true" />
+            <element signature="e#3829#3837#0" expanded="true" />
+            <element signature="e#8107#8115#0" expanded="true" />
+            <element signature="e#21466#21475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/jsonFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+          <folding>
+            <element signature="class#CustomData#0;class#Data#0" />
+            <element signature="e#2866#2867#0" expanded="true" />
+            <element signature="e#2904#2905#0" expanded="true" />
+            <element signature="class#Locations#0;class#Data#0" />
+            <element signature="class#Author#0;class#Data#0" />
+            <element signature="class#Change#0;class#Data#0" />
+            <element signature="class#GitIdentifier#0;class#Data#0" />
+            <element signature="class#TestCase#0;class#Data#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Source.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Meta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="class#Source#0;class#Meta#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1361#1369#0" expanded="true" />
+            <element signature="e#1435#1444#0" expanded="true" />
+            <element signature="e#1510#1519#0" expanded="true" />
+            <element signature="e#1587#1595#0" expanded="true" />
+            <element signature="e#3829#3837#0" expanded="true" />
+            <element signature="e#8107#8115#0" expanded="true" />
+            <element signature="e#21466#21475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/jsonFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1361#1369#0" expanded="true" />
+            <element signature="e#1435#1444#0" expanded="true" />
+            <element signature="e#1510#1519#0" expanded="true" />
+            <element signature="e#1587#1595#0" expanded="true" />
+            <element signature="e#3829#3837#0" expanded="true" />
+            <element signature="e#8107#8115#0" expanded="true" />
+            <element signature="e#21466#21475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/conversionTool/com/company/jsonObject" />
+    <entry file="file://$PROJECT_DIR$/out/production/conversionTool/com/company/jsonFormat" />
+    <entry file="file://$PROJECT_DIR$/out/production/conversionTool/com/company/scratch.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/conversionTool/com/company/htjey" />
+    <entry file="jar://C:/Program Files/Java/jdk8/jre/lib/rt.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/conversionTool/com/company/jsonFormat.class" />
+    <entry file="file://$PROJECT_DIR$/out/production/conversionTool/com/company/Main.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Links.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/conversionTool/com/company/Meta.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/LinkTypes.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Source.java" />
+    <entry file="jar://$USER_HOME$/Documents/Jena/lib/jena-core-3.7.0.jar!/org/apache/jena/graph/Node.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+          <folding>
+            <element signature="e#3128#3129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="class#CustomData#0;class#Data#0" />
+            <element signature="e#2866#2867#0" expanded="true" />
+            <element signature="e#2904#2905#0" expanded="true" />
+            <element signature="class#Locations#0;class#Data#0" />
+            <element signature="class#Author#0;class#Data#0" />
+            <element signature="class#Change#0;class#Data#0" />
+            <element signature="class#GitIdentifier#0;class#Data#0" />
+            <element signature="class#TestCase#0;class#Data#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/jsonFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Meta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="class#Source#0;class#Meta#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1361#1369#0" expanded="true" />
+            <element signature="e#1435#1444#0" expanded="true" />
+            <element signature="e#1510#1519#0" expanded="true" />
+            <element signature="e#1587#1595#0" expanded="true" />
+            <element signature="e#3829#3837#0" expanded="true" />
+            <element signature="e#8107#8115#0" expanded="true" />
+            <element signature="e#21466#21475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_HiBISCuS-master.zip/HiBISCuS-master/HiBISCus/bin/org/aksw/simba/hibiscus/test/TestSourceSelection.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_HiBISCuS-master.zip/HiBISCuS-master/HiBISCus/bin/org/aksw/simba/hibiscus/hypergraph/HyperGraph.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_HiBISCuS-master.zip/HiBISCuS-master/HiBISCus/bin/org/aksw/simba/hibiscus/HibiscusConfig.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_HiBISCuS-master.zip/HiBISCuS-master/HiBISCus/bin/org/aksw/simba/hibiscus/util/FedSumUpdate.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_HiBISCuS-master.zip/HiBISCuS-master/HiBISCus/src/org/aksw/simba/hibiscus/HibiscusConfig.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_HiBISCuS-master.zip/HiBISCuS-master/HiBISCus/bin/org/aksw/simba/hibiscus/util/FedSumGenerator.class" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>conversionTool</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>src-examples</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
